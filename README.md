@@ -9,6 +9,16 @@ I'm a full stack engineer based in Hong Kong.
 - Industry Experience: 15+ years
 - Education: Bachelor of Industrial Design -->
 
+## Projects
+
+- [WebPilot](https://www.webpilot.ai/)
+  - Next.js
+  - Node.js
+  - Puppeteer
+- [Chrome Extension](https://chromewebstore.google.com/detail/webpilot-copilot-for-all/biaggnjibplcfekllonekbonhfgchopo)
+  - [Plasmo](https://www.plasmo.com/)
+  - [Repository](https://github.com/webpilot-ai/Webpilot)
+
 ## Skills
 
 #### Languages
@@ -38,7 +48,6 @@ I'm a full stack engineer based in Hong Kong.
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
 )](https://github.com/ijoshwang)
 
-
 <!--
 **ijoshwang/ijoshwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,4 +61,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- ## References
+- Badges 4 README.md: [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- Awesome Profile: [Awesome](https://zzetao.github.io/awesome-github-profile/)
 -->
